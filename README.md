@@ -1,1 +1,1 @@
-# sudoku-in-python
+# Sudoku
